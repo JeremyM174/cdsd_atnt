@@ -1,4 +1,4 @@
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]() [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]() [![pyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![openAI](https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai)]() [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)]()
 
 *[English translation](#uk-machine-learning) follows below.*
 
@@ -18,6 +18,9 @@ Ce bref projet est consacré au deep learning. Vous trouverez ici:
 * L'environnement .yaml pour exécuter à nouveau le notebook.
 
 Bonne exploration! :feet:
+
+> [!NOTE]
+> Le code et l'environnement sont conçus pour réaliser l'entraînement sur GPU!
 
 
 ---
@@ -39,3 +42,6 @@ This short project is dedicated to deep learning. You may find here:
 * The .yaml environment backup would you run the notebook.
 
 Have fun exploring! :feet:
+
+> [!NOTE]
+> Both the code & environment are made to run the training on your GPU!

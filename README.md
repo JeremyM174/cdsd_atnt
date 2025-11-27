@@ -2,7 +2,7 @@
 
 *[English translation](#uk-machine-learning) follows below.*
 
-# <p align="center">Certification CDSD - bloc 3 Deep learning :fr:</p>
+# <p align="center">Certification CDSD - bloc 4 Deep learning :fr:</p>
 
 ### <p align="center">Jedha: projet AT&T</p>
 ![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_ATnT.jpg)
